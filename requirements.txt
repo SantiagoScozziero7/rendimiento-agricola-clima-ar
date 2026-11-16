@@ -1,0 +1,28 @@
+# Core
+pandas>=2.2
+numpy>=1.26
+
+# Modelado
+scikit-learn>=1.4
+lightgbm>=4.3
+
+# Interpretabilidad
+shap>=0.45
+
+# Visualización
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+
+# Notebooks
+jupyter>=1.0
+notebook>=7.0
+
+# Calidad de código (dev)
+black>=24.0
+ruff>=0.4
+pre-commit>=3.7
+nbstripout>=0.7
+
+# Tests
+pytest>=8.0
