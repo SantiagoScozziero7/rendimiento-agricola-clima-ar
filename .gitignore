@@ -4,9 +4,7 @@ venv/
 env/
 
 # Datos y modelos (no se versionan en Git; ver README para cómo obtenerlos)
-data/raw/*
 !data/raw/.gitkeep
-data/processed/*
 !data/processed/.gitkeep
 models/*.pkl
 models/*.joblib
